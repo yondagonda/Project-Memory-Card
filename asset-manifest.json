@@ -1,16 +1,27 @@
 {
   "files": {
-    "main.css": "/Project-Memory-Card/static/css/main.073c9b0a.css",
-    "main.js": "/Project-Memory-Card/static/js/main.65b0f8f4.js",
+    "main.css": "/Project-Memory-Card/static/css/main.bf6fd6e9.css",
+    "main.js": "/Project-Memory-Card/static/js/main.5b7d681e.js",
     "static/js/787.ce6dfba3.chunk.js": "/Project-Memory-Card/static/js/787.ce6dfba3.chunk.js",
-    "static/media/logo.svg": "/Project-Memory-Card/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/png": "/Project-Memory-Card/static/media/1af6544d8559c1597f7edb14305d7f22.4d3782386c335d445168.png",
+    "static/media/Jeong_Jeong_render.webp": "/Project-Memory-Card/static/media/Jeong_Jeong_render.1df1d5a4aa5c5139f3cc.webp",
+    "static/media/King_Bumi_HD_Render.webp": "/Project-Memory-Card/static/media/King_Bumi_HD_Render.79930a4d47c2f510b6ec.webp",
+    "static/media/tumblr_p2mak6FIKD1tyjd90o1_250.png": "/Project-Memory-Card/static/media/tumblr_p2mak6FIKD1tyjd90o1_250.208b05d9a41a560704c1.png",
+    "static/media/jet.png": "/Project-Memory-Card/static/media/jet.2525863c575c93b37210.png",
+    "static/media/Hakoda.webp": "/Project-Memory-Card/static/media/Hakoda.6eb321e934b21fbcaeed.webp",
+    "static/media/tumblr_p2d5ebA04r1tyjd90o1_250.png": "/Project-Memory-Card/static/media/tumblr_p2d5ebA04r1tyjd90o1_250.516d9760951b26a6949d.png",
+    "static/media/Hama.webp": "/Project-Memory-Card/static/media/Hama.0c6b63589794d10454b8.webp",
+    "static/media/Ty_Lee.webp": "/Project-Memory-Card/static/media/Ty_Lee.73d56a88d2c49b8b9fb1.webp",
+    "static/media/Piandao.webp": "/Project-Memory-Card/static/media/Piandao.5e647773656aa5e15fa0.webp",
+    "static/media/Combustion_Man_render.webp": "/Project-Memory-Card/static/media/Combustion_Man_render.8d5df1389dcf1061aabe.webp",
+    "static/media/Longfengfull.webp": "/Project-Memory-Card/static/media/Longfengfull.a35e959cfce4be85e4ba.webp",
     "index.html": "/Project-Memory-Card/index.html",
-    "main.073c9b0a.css.map": "/Project-Memory-Card/static/css/main.073c9b0a.css.map",
-    "main.65b0f8f4.js.map": "/Project-Memory-Card/static/js/main.65b0f8f4.js.map",
+    "main.bf6fd6e9.css.map": "/Project-Memory-Card/static/css/main.bf6fd6e9.css.map",
+    "main.5b7d681e.js.map": "/Project-Memory-Card/static/js/main.5b7d681e.js.map",
     "787.ce6dfba3.chunk.js.map": "/Project-Memory-Card/static/js/787.ce6dfba3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.65b0f8f4.js"
+    "static/css/main.bf6fd6e9.css",
+    "static/js/main.5b7d681e.js"
   ]
 }
