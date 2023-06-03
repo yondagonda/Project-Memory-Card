@@ -1,13 +1,65 @@
-.container {
-  border: 1px solid black;
+* {
+  font-family: Arial, Helvetica, sans-serif;
 }
 
+body {
+  background-color: rgb(123, 198, 241);
+}
 .title {
-  font-size: 2em;
+  font-size: 2.8em;
 }
 
 .images {
-  margin-top: 3em;
+  margin-top: 1.8em;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(13.5em, 1fr));
+  grid-gap: 1em;
+  max-width: 1000px;
+  margin-inline: auto;
+}
+
+@media screen and (min-width: 1000px) {
+  .images {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+@media screen and (max-width: 800px) {
+  .title {
+    font-size: 2em;
+  }
+}
+
+.card {
+  border: 1px solid black;
+  border-radius: 6px;
+  padding: 0.5em;
+  position: relative;
+  height: 15em;
+  min-width: 13em;
   display: flex;
-  gap: 1em;
+  justify-content: center;
+  transition: box-shadow 0.1s ease;
+}
+
+.card:hover {
+  outline: 1px solid rgb(199, 51, 199);
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+img {
+  height: 13.5em;
+  position: absolute;
+  z-index: -1;
+}
+
+.name {
+  position: absolute;
+  z-index: -1;
+  bottom: 0;
+  padding: 0.2em;
+}
+
+.score-area {
+  padding-top: 1em;
+  font-weight: bold;
 }
